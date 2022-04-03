@@ -1,0 +1,34 @@
+.message{
+ padding:10px;
+    margin:10px;
+    width:fit-content;
+    color:white!important;
+}
+
+.message_user{
+    margin-left:auto;
+    color:green;
+    text-align:left !important;
+}
+.message_usercard{
+    background-color:#E62E6B!important;
+    font-size:50px;
+    color:white!important;
+    }
+    .message_guestcard{
+    background-color:#CCFF00!important;
+    }
+    body{
+        background-color:pink;
+        background-image: url("./images/background-1.jpg");
+    }
+    .msg{
+        color:yellow;
+        font-family:Serif;
+        /* text-decoration: underline; */
+        font-weight: bold;
+        text-transform: uppercase;
+        background-color:tomato;
+        border: 2px solid tomato;
+  border-radius: 50px;
+    }
